@@ -493,7 +493,7 @@ class Conversation:
 
 
 # --------------------------------------------------
-# 9. TOOL SPECIFICATION
+# 9. TOOL SPECIFICATI
 # --------------------------------------------------
 
 def tool_spec(
